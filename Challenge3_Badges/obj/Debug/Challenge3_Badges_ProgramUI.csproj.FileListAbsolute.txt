@@ -1,0 +1,12 @@
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges.exe.config
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges.exe
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\obj\Debug\Challenge3_Badges_ProgramUI.csprojAssemblyReference.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\obj\Debug\Challenge3_Badges_ProgramUI.csproj.CoreCompileInputs.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\obj\Debug\Challenge3_Badges.exe
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\obj\Debug\Challenge3_Badges.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges_Data.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges_Repository.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges_Data.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\bin\Debug\Challenge3_Badges_Repository.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge3_Badges\obj\Debug\Challenge3_Badges_ProgramUI.csproj.CopyComplete

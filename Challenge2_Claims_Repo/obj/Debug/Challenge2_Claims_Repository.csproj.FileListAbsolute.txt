@@ -1,0 +1,9 @@
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\obj\Debug\Challenge2_Claims_Repository.csprojAssemblyReference.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\obj\Debug\Challenge2_Claims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\bin\Debug\Challenge2_Claims_Repo.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\bin\Debug\Challenge2_Claims_Repo.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\bin\Debug\Challenge2_Claims_Data.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\bin\Debug\Challenge2_Claims_Data.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\obj\Debug\Challenge2_Claims_Repository.csproj.CopyComplete
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\obj\Debug\Challenge2_Claims_Repo.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Repo\obj\Debug\Challenge2_Claims_Repo.pdb

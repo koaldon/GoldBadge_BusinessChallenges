@@ -1,0 +1,6 @@
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\bin\Debug\Challenge2_Claims_Data.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\bin\Debug\Challenge2_Claims_Data.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\obj\Debug\Challenge2_Claims_Data.csprojAssemblyReference.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\obj\Debug\Challenge2_Claims_Data.csproj.CoreCompileInputs.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\obj\Debug\Challenge2_Claims_Data.dll
+C:\Users\koald\Documents\ElevenFiftyProjects\GoldBadgeChallenges\Challenge2_Claims_Data\obj\Debug\Challenge2_Claims_Data.pdb
